@@ -1,0 +1,6 @@
+User-Agent: *
+Disallow: /favicon.ico
+Disallow: /CNAME
+Disallow: /404.html
+Disallow: /index.html
+Allow: /
