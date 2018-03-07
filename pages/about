@@ -1,0 +1,23 @@
+<head>
+  <title>Ozpin | About</title>
+  <title>Ozpin | Home</title>
+  <link rel="icon" href="favicon.ico" type="image/x-icon" />
+  <link rel="stylesheet" type="text/css" href="scripts-and-styles/main.css" />
+</head>
+<body>
+  <div id="header">
+    <center><a href="/" id="logo">Ozpin</a></center>
+    <ul id="menu">
+      <li><a href="pages/about"><span>About</span></a></li>
+      <li><a href="https://discord.gg/rm8evmu"><span>Discord</span></a></li>
+      <li><a href="https://twitter.com/ethan_universe"><span>Twitter</span></a></li>
+      <li><a href="https://youtube.com/c/EthanUniverseEntertainment"><span>Youtube</span></a></li>
+      <li><a href="pages/more"><span>More</span></a></li>
+    </ul>
+  </div>
+  <div id="content">
+    <h3>About Ozpin</h3>
+    <p>hi im joshs friend josh josh josh</p>
+    <p>josh is cool</p>
+  </div>
+</body>
