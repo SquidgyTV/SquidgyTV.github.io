@@ -1,4 +1,8 @@
 @import url(https://fonts.googleapis.com/css?family=Squada+One)
+body {
+  padding: 20px 80px;
+  background: #eee url(https://subtlepatterns.com/patterns/extra_clean_paper.png);
+}
 #menu {
   height: 42px;
   list-style: none;
