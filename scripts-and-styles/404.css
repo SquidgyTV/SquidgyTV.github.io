@@ -1,7 +1,7 @@
-image {
+#image {
   position: relative;
 }
-image2 {
+#image2 {
   position: absolute;
   top: 50%;
   left: 50%;
