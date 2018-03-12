@@ -1,5 +1,5 @@
 @import url(https://fonts.googleapis.com/css?family=Squada+One);
-#menu {
+#menu2 {
   height: 42px;
   list-style: none;
   margin: 10px 0 0 0; padding: 25px 10px;
@@ -8,7 +8,7 @@
   position: relative;
   text-align: center;
 }
-#menu li {
+#menu2 li {
   display: inline-block;
   width: 173px;
   margin: 0 10px;
@@ -17,7 +17,7 @@
   -webkit-backface-visibility: hidden;
   -webkit-transition: 200ms all;
 }
-#menu li a {
+#menu2 li a {
   text-transform: uppercase;
   font-family: 'Squada One', cursive;
   font-weight: 800;
@@ -47,15 +47,15 @@
         0 0 20px -5px rgba(0,0,0,.4),
         0 0 0px 3px #FFF inset;
 }
-#menu li:hover {
+#menu2 li:hover {
     width: 203px;
     margin: 0 -5px;
 }
-#menu a:hover {
+#menu2 a:hover {
   color: #d90075;
 }
-#menu li:after,
-#menu li:before {
+#menu2 li:after,
+#menu2 li:before {
   content: '';
   position: absolute;
   width: 50px;
@@ -65,12 +65,12 @@
   x-index: -3;
     border-radius: 4px;
 }
-#menu li:after {
+#menu2 li:after {
     background-image: -webkit-linear-gradient(left, transparent 0%, rgba(0,0,0,.4) 100%);
   right: 0;
   top: -4px; 
 }
-#menu li:before {
+#menu2 li:before {
   left: 0;
   bottom: -4px;
     background-image: -webkit-linear-gradient(right, transparent 0%, rgba(0,0,0,.4) 100%);
